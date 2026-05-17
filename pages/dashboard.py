@@ -30,7 +30,7 @@ class DashboardPage(ctk.CTkFrame):
         # Project title above the clock card (separate, large and bold)
         title_label = ctk.CTkLabel(
             self,
-            text="Focus Flow",
+            text="FocusFlow",
             font=("Segoe UI", 48, "bold"),
             text_color="#E0E7FF"
         )
